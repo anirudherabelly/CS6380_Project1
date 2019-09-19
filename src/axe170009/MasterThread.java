@@ -2,16 +2,34 @@ package axe170009;
 
 import java.util.concurrent.CyclicBarrier;
 
+/**
+ * Class to simulate the behaviour of master thread in variable speeds algorithm
+ */
 public class MasterThread extends Thread {
 
-    //array holds the references of all the n child threads
+    //array to hold the reference of all the n child threads
     private ChildThread[] childThreads;
-    private int currentRound;           //info about the current round
-    private int totalRounds;            //mininum number of rounds required to elect the leader
-    private int totalProcesses;
-    private volatile boolean isLeaderElected;   //this flag is used to terminate the code when the leader is elected
-    private CyclicBarrier synchronousBarrier;   //CyclicBarrier to implement thread synchronization
 
+    //current round count
+    private int currentRound;
+
+    //total number of rounds required to elect the leader
+    private int totalRounds;
+
+    //total no. of processes in the ring
+    private int totalProcesses;
+
+    //this flag is used to terminate the code when the leader is elected
+    private volatile boolean isLeaderElected;
+
+    //CyclicBarrier to implement thread synchronization
+    private CyclicBarrier synchronousBarrier;
+
+    /**
+     * default constructor
+     * @param _totalProcesses - total no of processes on which the simulation should be done
+     * @param _uids - uids of all the processes
+     */
     public MasterThread(int _totalProcesses, int[] _uids){
         this.totalProcesses = _totalProcesses;
         this.totalRounds = this.totalProcesses * waitingTime(_uids);
@@ -21,6 +39,9 @@ public class MasterThread extends Thread {
         this.setChildThreads(_uids, this.synchronousBarrier);
     }
 
+    /**
+     * Method that is executed concurrently, when MasterThread.start() is called.
+     */
     @Override
     public void run() {
         for(ChildThread child : childThreads){
@@ -34,6 +55,9 @@ public class MasterThread extends Thread {
         }
     }
 
+    /**
+     * Method that is executed after each round is executed
+     */
     private void executeAfterEachRound(){
         System.out.println("current round - "+ currentRound+" isLeader - "+isLeaderElected);
         this.currentRound += 1;
@@ -48,6 +72,11 @@ public class MasterThread extends Thread {
         }
     }
 
+    /**
+     * Method to calculate waiting time for token with min uid at each hop
+     * @param uids array of ids of all processes
+     * @return waiting time
+     */
     private int waitingTime(int[] uids) {
         int min = Integer.MAX_VALUE;
         for(int id : uids){
@@ -56,33 +85,18 @@ public class MasterThread extends Thread {
         return (int)Math.pow(2, min);
     }
 
-    public ChildThread[] getChildThreads() {
-        return childThreads;
-    }
-
-    public void setChildThreads(int[] _uids, CyclicBarrier barrier) {
+    /**
+     * Method to create child threads
+     * @param _uids array of process uids
+     * @param _barrier cyclic barrier that keeps thread waiting till each round is executed
+     */
+    public void setChildThreads(int[] _uids, CyclicBarrier _barrier) {
         this.childThreads = new ChildThread[this.totalProcesses];
         for(int i=0; i<this.totalProcesses; i++){
-            childThreads[i] = new ChildThread(_uids[i], barrier);
+            childThreads[i] = new ChildThread(_uids[i], _barrier);
         }
         for(int i=0; i<this.totalProcesses; i++){
             childThreads[i].setNeighbour(childThreads[(i+1)%this.totalProcesses]);
         }
-    }
-
-    public int getCurrentRound() {
-        return currentRound;
-    }
-
-    public void setCurrentRound(int currentRound) {
-        this.currentRound = currentRound;
-    }
-
-    public int getTotalRounds() {
-        return totalRounds;
-    }
-
-    public void setTotalRounds(int totalRounds) {
-        this.totalRounds = totalRounds;
     }
 }

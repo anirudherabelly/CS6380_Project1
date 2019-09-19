@@ -4,17 +4,17 @@ import java.util.concurrent.CyclicBarrier;
 
 public class MasterThread extends Thread {
 
+    //array holds the references of all the n child threads
     private ChildThread[] childThreads;
-    private int currentRound;
-    private int totalRounds;
+    private int currentRound;           //info about the current round
+    private int totalRounds;            //mininum number of rounds required to elect the leader
     private int totalProcesses;
-    private volatile boolean isLeaderElected;
-    private CyclicBarrier synchronousBarrier;
+    private volatile boolean isLeaderElected;   //this flag is used to terminate the code when the leader is elected
+    private CyclicBarrier synchronousBarrier;   //CyclicBarrier to implement thread synchronization
 
     public MasterThread(int _totalProcesses, int[] _uids){
         this.totalProcesses = _totalProcesses;
         this.totalRounds = this.totalProcesses * waitingTime(_uids);
-        System.out.println("MT this.totalRounds ::: "+this.totalRounds);
         this.synchronousBarrier = new CyclicBarrier(this.totalProcesses, () -> this.executeAfterEachRound());
         this.currentRound = 1;
         this.isLeaderElected = false;

@@ -29,8 +29,8 @@ public class MasterThread extends Thread {
         while(!this.isLeaderElected){
         }
         for(ChildThread thread : this.childThreads){
-            System.out.println("thread_ID  --- isLeader");
-            System.out.println(thread.getUid()+" "+thread.isLeader());
+            System.out.println("thread_ID---isLeader---leaderID");
+            System.out.println(thread.getUid()+"            "+thread.isLeader()+"          "+thread.minMessageUID());
         }
     }
 

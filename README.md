@@ -9,10 +9,10 @@ Done by group of two members.
 
 You will develop a simple simulator that simulates a synchronous network using multi-threading. 
 There are n+1 threads in the system: Each of the n processes will be simulated by one thread and there is one master thread. 
-The master thread will “inform” all threads when a round starts.
+The master thread will “inform” all threads when a currentRound starts.
 
-Thus, each thread simulating one process, before it can begin round x, must wait for the master thread for a "go ahead" signal for round x. 
-Clearly, the master thread can give the signal to start round x to the threads only if the master thread knows that all the n threads (simulating n processes) have completed their previous round (round x-1).
+Thus, each thread simulating one process, before it can begin currentRound x, must wait for the master thread for a "go ahead" signal for currentRound x. 
+Clearly, the master thread can give the signal to start currentRound x to the threads only if the master thread knows that all the n threads (simulating n processes) have completed their previous currentRound (currentRound x-1).
 Your simulation will simulate the Variable Speeds algorithm in a synchronous ring. 
 No process knows the value of n. The code (algorithm) executed by all (the n newly created threads) must be the same.
 

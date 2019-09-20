@@ -5,7 +5,7 @@
 Team Members
 ------------
 1) Anirudh Erabelly - axe170009
-2) Ravi Talari - rxt180002
+2) Ravi Teja Talari - rxt170012
 
 Files Included
 --------------

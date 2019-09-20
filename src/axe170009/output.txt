@@ -1,0 +1,977 @@
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+current round - 2 isLeaderElected - false
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 3 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 4 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 5 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+current round - 6 isLeaderElected - false
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 7 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 8 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 9 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+current round - 10 isLeaderElected - false
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 11 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 12 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 13 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 14 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 15 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 16 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 17 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 18 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 19 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 20 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 21 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 22 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 23 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 24 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 25 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+current round - 26 isLeaderElected - false
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 27 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 28 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+current round - 29 isLeaderElected - false
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 30 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 31 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+current round - 32 isLeaderElected - false
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 6   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+Yes can send msg ID::: 5   round ::: 32
+current round - 33 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 6    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 34 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 35 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 36 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 37 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 38 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 39 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 40 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 41 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 42 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 43 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 44 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 45 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 46 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 47 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 48 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 49 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 50 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 51 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 52 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 53 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 54 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 55 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 56 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 57 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 58 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 59 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 60 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 61 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 62 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+current round - 63 isLeaderElected - false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 64 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 7   true
+Yes can send msg ID::: 6   round ::: 64
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 65 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 7    receivedMessage ::: 5   false
+current round - 66 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 67 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 68 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 69 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 70 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 71 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 72 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 73 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 74 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 75 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 76 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 77 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 78 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 79 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 80 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 81 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 82 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 83 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 84 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 85 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 86 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 87 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 88 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 89 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 90 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 91 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 92 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 93 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+current round - 94 isLeaderElected - false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 95 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 96 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+Yes can send msg ID::: 7   round ::: 96
+threadID ::: 8  minMessage ::: 8    receivedMessage ::: 8   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 97 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 98 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 99 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 100 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 101 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 102 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 103 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 104 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 105 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 106 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 107 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 108 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 109 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 110 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 111 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 112 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 113 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 114 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 115 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 116 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 117 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 118 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 119 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 120 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 121 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 122 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 123 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 124 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+current round - 125 isLeaderElected - false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 126 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 127 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 9   true
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 128 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+Yes can send msg ID::: 8   round ::: 128
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 9    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 129 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 130 isLeaderElected - false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 131 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 132 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 133 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 134 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 135 isLeaderElected - false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 136 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 137 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 138 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 139 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 140 isLeaderElected - false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 141 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 142 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 143 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 144 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 145 isLeaderElected - false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 146 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 147 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 148 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 149 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 150 isLeaderElected - false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 151 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 152 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 153 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 154 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 155 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 156 isLeaderElected - false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+current round - 157 isLeaderElected - false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 158 isLeaderElected - false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 159 isLeaderElected - false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+current round - 160 isLeaderElected - false
+threadID ::: 6  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 7  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 8  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 9  minMessage ::: 5    receivedMessage ::: 5   false
+threadID ::: 5  minMessage ::: 5    receivedMessage ::: 5   true
+Yes can send msg ID::: 9   round ::: 160
+current round - 161 isLeaderElected - true
+thread_ID---isLeader---leaderID
+5            true          5
+thread_ID---isLeader---leaderID
+6            false          5
+thread_ID---isLeader---leaderID
+7            false          5
+thread_ID---isLeader---leaderID
+8            false          5
+thread_ID---isLeader---leaderID
+9            false          5
+
+Process finished with exit code 0

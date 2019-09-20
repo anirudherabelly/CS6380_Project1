@@ -3,6 +3,9 @@ package axe170009;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
+/**
+ * Class to simulate the behaviour of child thread in variable speeds algorithm
+ */
 public class ChildThread extends Thread {
     // UID of this thread
     private int uid;

@@ -4,8 +4,8 @@
 
 This is a group project: 
 Done by group of two members.
-1) Anirudh Erabelly
-2) Ravi Talari
+1) Anirudh Erabelly - axe170009
+2) Ravi Talari - rxt180002
 
 You will develop a simple simulator that simulates a synchronous network using multi-threading. 
 There are n+1 threads in the system: Each of the n processes will be simulated by one thread and there is one master thread. 

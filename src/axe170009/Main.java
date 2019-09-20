@@ -2,7 +2,10 @@ package axe170009;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.*;
+import java.util.Random;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  * Main class to simulate the Variable speeds algorithm
@@ -39,7 +42,7 @@ public class Main {
      */
     public static void main(String[] args) throws FileNotFoundException {
         //read the input file
-        Scanner sc = new Scanner(new File("src/input/input.dat"));
+        Scanner sc = new Scanner(new File("src/axe170009/input.dat"));
         if(args.length >= 1){
             sc = new Scanner(new File(args[0]));
         }

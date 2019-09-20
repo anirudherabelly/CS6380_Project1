@@ -37,7 +37,7 @@ public class ChildThread extends Thread {
     public void run() {
         try {
             while(!this.isLeaderElected) {
-                System.out.println("threadID ::: "+this.uid+"  minMessage ::: "+minMessage.getUId()+"    receivedMessage ::: "+receivedMessage.getUId()+"   "+receivedMessage.isMyself());
+                System.out.println("threadID ::: "+this.uid+"  minMessage ::: "+minMessage.getUId()+"    receivedMessage ::: "+receivedMessage.getUId()+"   "+receivedMessage.isReceived());
                 if(minMessage.getUId() > receivedMessage.getUId()){
                     minMessage.setUId(receivedMessage.getUId());
                     minMessage.setRound(receivedMessage.getRound());
@@ -75,7 +75,7 @@ public class ChildThread extends Thread {
     determines if this thread is the leader based on the incoming message UID
      */
     public boolean isLeader() {
-        return this.uid == this.receivedMessage.getUId() && !this.receivedMessage.isMyself();
+        return this.uid == this.receivedMessage.getUId() && !this.receivedMessage.isReceived();
     }
 
     /*

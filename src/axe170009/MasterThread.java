@@ -59,7 +59,6 @@ public class MasterThread extends Thread {
      * Method that is executed after each round is executed
      */
     private void executeAfterEachRound(){
-        System.out.println("current round - "+ currentRound+" isLeader - "+isLeaderElected);
         this.currentRound += 1;
         for(ChildThread thread : this.childThreads){
             if(thread.isLeader()){
@@ -70,6 +69,7 @@ public class MasterThread extends Thread {
             thread.setCurrentRound(this.currentRound);
             if(isLeaderElected)thread.setLeaderElected(true);
         }
+        System.out.println("current round - "+ currentRound+" isLeaderElected - "+isLeaderElected);
     }
 
     /**
